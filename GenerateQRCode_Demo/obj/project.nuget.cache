@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/6lgFllzR0oj5do8cVMcw7DHFIo0CZYSLXiawPCKGF10RxKNXr8VIYReQz6dzeT2tbgey7pIrD7ddY4U0+G+Pg==",
+  "dgSpecHash": "cDANX/7y43Rd5aPeXUjzmnIVP/JCVMdWqyVRlM6jrdUByMbE3UumFvmyana33scLZqHJJYs5XopJ2cOp5Geu9w==",
   "success": true,
-  "projectFilePath": "D:\\ASP.net-CORE_MVC\\GIT\\GenerateQRCodeMVCCore6-main\\GenerateQRCode_Demo\\BlackCoderGenerateQRCode.csproj",
+  "projectFilePath": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\GenerateQRCodeMVCCore6-main\\GenerateQRCode_Demo\\BlackCoderGenerateQRCode.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\visha\\.nuget\\packages\\barcode\\2022.5.5918\\barcode.2022.5.5918.nupkg.sha512",
     "C:\\Users\\visha\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
